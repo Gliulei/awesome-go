@@ -31,8 +31,9 @@
 ### go其它工具
 
 **快速构建web项目**
-- go-gin
-- goframe
+- (gf)[https://github.com/gogf/gf.git] - 很受欢迎的一个web框架，gf-cli一条命令既可以生成一个web项目，目录结构我很喜欢，典型的MVCC结构
+- (GinSkeleton)[https://github.com/qifengzhang007/GinSkeleton] - gin框架脚手架项目，喜欢gin可以参考下这个
+- (go-gin-api)[https://github.com/xinliangnote/go-gin-api] - 另一个gin框架，封装了很多东西，目录结构划分不是很喜欢，不过功能确实多
 
 **命令行利器**
 - [cobra](https://github.com/spf13/cobra.git) - 构建命令行的强大工具
