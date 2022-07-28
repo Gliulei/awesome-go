@@ -21,6 +21,9 @@
 **mysql备份**
 
 **mysql监控**
+- (orzdba) https://github.com/cnlubo/orzdba - mysql命令行方式监控工具，挺好用的。
+教程：https://www.cnblogs.com/yang417/p/13692325.html
+
 
 **mysql压测**
 - benchmark
