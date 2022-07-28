@@ -3,7 +3,7 @@
 #### 介绍
 个人收藏的实践过的比较好的go项目和最佳实践
 
-### mysql工具集
+## mysql工具集
 
 **中间件proxy**
 - [gaea](https://github.com/XiaoMi/Gaea.git) - 小米开源的，开箱即用集成了mycat和kingshard
