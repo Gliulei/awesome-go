@@ -16,7 +16,7 @@
 - [goInception](https://github.com/hanchuanchuan/goInception)
 
 **mysql迁移**
-- [go-mysql](https://github.com/go-mysql-org/go-mysql.git) - 很好的mysql工具集，包括数据迁移、Failover等
+- [go-mysql](https://github.com/go-mysql-org/go-mysql.git) - 很好的mysql工具集，包括数据迁移、Failover等功能
 
 **mysql备份**
 
