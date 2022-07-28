@@ -19,10 +19,12 @@
 - [go-mysql](https://github.com/go-mysql-org/go-mysql.git) - 很好的mysql工具集，包括数据迁移、Failover等功能
 
 **mysql备份**
+- [xtrabackup](https://www.cnblogs.com/f-ck-need-u/p/9018716.html) - mysql备份工具，DBA备份常用工具
 
 **mysql监控**
 - [orzdba] (https://github.com/cnlubo/orzdba) - mysql命令行方式监控工具，挺好用的。
 教程：https://www.cnblogs.com/yang417/p/13692325.html
+- 
 
 
 **mysql压测**
