@@ -5,18 +5,18 @@
 
 ## mysql工具集
 * 中间件
-gaea
+- gaea
 
 * HA
-orchestartor
+- orchestartor
 
 * 自动化审核、执行、备份MySQL运维工具
-[goInception](https://github.com/hanchuanchuan/goInception)
+- [goInception](https://github.com/hanchuanchuan/goInception)
 
 * mysql迁移工具
 
 * mysql压测工具
-benchmark
+- benchmark
 
 
 
