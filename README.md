@@ -28,7 +28,7 @@
 
 
 **mysql压测**
-- [benchmark](https://github.com/google/benchmark.git) - mysql压测工具非常常用
+- [benchmark](https://github.com/google/benchmark.git) - mysql压测工具，压mysql、proxy都可以，非常常用
 
 ### go其它工具
 
