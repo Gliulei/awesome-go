@@ -5,16 +5,18 @@
 
 ### mysql工具集
 
-**中间件**
+**中间件proxy**
 - [gaea](https://github.com/XiaoMi/Gaea.git) - 小米开源的，开箱即用集成了mycat和kingshard
+- [vitess](https://github.com/vitessio/vitess.git) - MySQL数据库大规模Web服务的服务器和工具，什么都有很牛的项目，就是学习成本很高，部署维护起来很困难
 
-**HA**
+**Failover**
 - [orchestrator](https://github.com/openark/orchestrator.git) - mysql故障转移和可视化工具，raft协议保证高可用
 
 **自动化审核、执行、备份MySQL运维工具**
 - [goInception](https://github.com/hanchuanchuan/goInception)
 
 **mysql迁移**
+- [go-mysql](https://github.com/go-mysql-org/go-mysql.git) - 很好的mysql工具集，包括数据迁移、Failover等
 
 **mysql备份**
 
