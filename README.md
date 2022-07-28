@@ -9,7 +9,7 @@
 - [gaea](https://github.com/XiaoMi/Gaea.git) - 小米开源的，开箱即用集成了mycat和kingshard
 
 **HA**
-- orchestrator(https://github.com/openark/orchestrator.git) - mysql故障转移和可视化工具，raft协议保证高可用
+- [orchestrator](https://github.com/openark/orchestrator.git) - mysql故障转移和可视化工具，raft协议保证高可用
 
 **自动化审核、执行、备份MySQL运维工具**
 - [goInception](https://github.com/hanchuanchuan/goInception)
