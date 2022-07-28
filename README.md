@@ -26,7 +26,7 @@
 ### go其它工具
 
 **命令行利器**
-- [cobra](https://github.com/spf13/cobra.git)
+- [cobra](https://github.com/spf13/cobra.git) 构建命令行的强大工具
 
 **配置解析**
 - [viper](https://github.com/spf13/viper.git) 支持任意格式
